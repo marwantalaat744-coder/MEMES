@@ -1,28 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <link rel="stylesheet" href="sign in.css">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign In</title>
-</head>
-<body>
-    <div>
-        <form action="home.html" method="post" >
-            <h1 class="sign-in-form">Sign In</h1>
-            <label for="username">Username:</label>
-            <input type="text" id="username" name="username" placeholder="Enter your username" class="sign-in-form">
-            <br>
+marw
 
-            <label for="password">Password:</label>
-            <input type="password" id="password" name="password" placeholder="Enter your password" class="sign-in-form">
-            <br>
-
-            <label for="email">Email:</label>
-            <input type="email" placeholder="Enter your email" class="sign-in-form">
-            <br>
-            <button type="submit" class="sign-in-form">Sign In</button>
-        </form>
-    </div>
-</body>
-</html>
