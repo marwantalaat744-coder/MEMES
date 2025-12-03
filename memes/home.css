@@ -1,0 +1,12 @@
+body{
+    align-items: center;
+    text-align: center;
+    padding: 200px;
+     background:linear-gradient(to left , black, darkgray);
+     color: white;
+}
+a{
+    color: black;
+    font-size: large;
+    text-decoration: none ;
+}
